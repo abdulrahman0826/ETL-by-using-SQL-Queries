@@ -1,5 +1,5 @@
-# Task-3
-Use SQL queries to extract and analyze data from a database.
+# Task-3 Elevate Labs
+**Use SQL queries to extract and analyze data from a database.**
 To begin with, i installed mysql server and mysql workbench, Then, imported dataset into my database connection .Started to load all rows and columns and started to analyze the data for which we can alter or update to easily understandable and execute.
 Used maily SQL queries and functions like (select,where,order by,group by)
 And also joins(inner,Left,Right).
